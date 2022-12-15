@@ -1,0 +1,2 @@
+# OCRmyDIR
+OCRmyDIR
